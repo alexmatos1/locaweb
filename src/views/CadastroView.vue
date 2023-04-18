@@ -69,7 +69,7 @@
         <PlanoTres v-if="planoSelecionado == 'tres' "  mostrarBtn="tres"></PlanoTres>
         <!-- <button class="btn-troca" @click="trocarPlano">Trocar Plano</button>  -->
         <div style="margin-top: -500px;">
-          <button class="btn-troca" @click="trocarPlano">Trocar Plano 2</button>
+          <button class="btn-troca" @click="trocarPlano">Trocar Plano</button>
         </div>
       </div>  
       
