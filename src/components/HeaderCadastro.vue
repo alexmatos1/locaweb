@@ -1,7 +1,7 @@
 
 <template>
     <div class="div-img">
-      <img class="img-logo" src="img/logo.png" alt="">   
+      <img class="img-logo" src="/img/logo.png" alt="">   
       <p class="titulo-site">Você está muito próximo de mudar a forma de </p>
       <p class="hospedar-site">hospedar seu site</p>
       <p class="mb">Escolha o seu plano</p>

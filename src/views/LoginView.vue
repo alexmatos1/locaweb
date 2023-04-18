@@ -1,6 +1,6 @@
 <template>
   <div class="div-img">
-    <img class="img-logo" src="img/logo.png" alt="">   
+    <img class="img-logo" src="/img/logo.png" alt="">   
   </div>
   <div class="login">
     <h1>Entre na sua conta</h1>

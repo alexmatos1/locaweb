@@ -1,7 +1,7 @@
 <template>
     <header v-if="nome !== ''">
         <div>
-            <img class="img-logo" src="img/logo.png" alt="">
+            <img class="img-logo" src="/img/logo.png" alt="">
         </div>
         <div class="div-logout">
             <p class="btn-user" @click="btnUser">{{letra}}</p>
