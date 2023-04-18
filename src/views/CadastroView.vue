@@ -150,6 +150,12 @@ export default{
         })
             .then(res=>res.json())
             .then(json=>console.log(json))
+
+            let logado = 'johnd'
+              this.$router.push({
+                name: "IndexView",
+                state: {logado}
+              })
       }
     },
     mounted() {
