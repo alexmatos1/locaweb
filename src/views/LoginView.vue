@@ -163,7 +163,7 @@ input[type="password"] {
 
 @media screen and (max-width: 286px) {
   .label-cadastro { 
-    margin-top: 75px;
+    margin-top: 90px;
   }  
 }
 
